@@ -1,0 +1,4 @@
+﻿  objectDetection.cpp
+c:\users\enjoy\documents\visual studio 2015\projects\facefacer\project1\objectdetection.cpp(146): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\Enjoy\Documents\Visual Studio 2015\Projects\facefacer\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Enjoy\Documents\Visual Studio 2015\Projects\facefacer\Debug\Project1.pdb (Partial PDB)

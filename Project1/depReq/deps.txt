@@ -1,0 +1,9 @@
+depReq\opencv_core320d.lib
+depReq\opencv_face320d.lib
+depReq\opencv_highgui320d.lib
+depReq\opencv_imgcodecs320d.lib
+depReq\opencv_imgproc320d.lib
+depReq\opencv_ml320d.lib
+depReq\opencv_objdetect320d.lib
+depReq\opencv_videoio320d.lib
+depReq\opencv_world320d.lib
